@@ -7,7 +7,11 @@ Maybe some blog dominates the search results for a tag.
 Maybe you don't want to see your own posts.
 
 Adds a text field and a checkbox to the right side of the tag search results, below the tag heading.
+See screenshot below
+
+![](https://raw.githubusercontent.com/wheany/user-scripts/master/tumblr-blog-name-filter/screenshot.png)
 
 Uncheck the checkbox to see the posts being hidden by the script.
 
 Type blog names you want to hide into the text field. To hide multiple blogs, separate their names with commas.
+
